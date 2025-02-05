@@ -1,0 +1,4 @@
+$ ./0-current_working_directory/basics
+$
+echo "dirname/readlink: $(dirname $(readlink -f $0))
+
